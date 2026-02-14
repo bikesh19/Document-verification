@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 # Parameters
 # -------------------------
 MODEL_PATH = "model.h5"  # or "model.keras"
-IMG_PATH = r"05.jpg"       # put test.jpg in the same folder as this script
+IMG_PATH = r"03.jpg"       # put test.jpg in the same folder as this script
 IMG_SIZE = (224, 224)
 
 # -------------------------
