@@ -8,7 +8,7 @@ from tensorflow.keras.models import load_model
 # Parameters
 # -------------------------
 MODEL_PATH = "model.h5"        # Path to your trained classifier
-IMG_PATH = r"05.jpg"           # Image to test
+IMG_PATH = r"01.jpg"           # Image to test
 IMG_SIZE = (224, 224)
 
 # -------------------------
@@ -77,8 +77,10 @@ def process_image(image_path):
 
     else:
         print("\n❌ Not a license. OCR skipped.")
-
 # -------------------------
 # 4️⃣ Run pipeline
 # -------------------------
 process_image(IMG_PATH)
+
+
+
