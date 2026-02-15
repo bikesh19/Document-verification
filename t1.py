@@ -84,7 +84,7 @@ def parse_license_fields(texts):
                 data["Father/Husband Name"] = texts[i+1].strip()
 
         # DOB
-        if "D.O.B" in line:
+        if "D.O.B." in line:
             data["DOB"] = line.split(":")[-1].strip()
 
         # Issue Date
