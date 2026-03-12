@@ -1,0 +1,11 @@
+{
+  "image_path": "C:\\Users\\Bikesh Sah\\Desktop\\k\\test_images\\test.jpg",
+  "classification": {
+    "label": "not_license",
+    "confidence": 0.21917873620986938
+  },
+  "extracted_data": null,
+  "validation": null,
+  "verification_status": "REJECTED",
+  "error": "Not a driving license or low confidence"
+}

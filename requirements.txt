@@ -6,3 +6,5 @@ pillow
 paddlepaddle
 paddleocr
 pytesseract
+flask
+flask-cors
