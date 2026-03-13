@@ -1,8 +1,8 @@
 {
-  "image_path": "C:\\Users\\Bikesh Sah\\Desktop\\k\\test_images\\test.jpg",
+  "image_path": "test_images\\test.jpg",
   "classification": {
     "label": "not_license",
-    "confidence": 0.21917873620986938
+    "confidence": 0.2191791534423828
   },
   "extracted_data": null,
   "validation": null,
