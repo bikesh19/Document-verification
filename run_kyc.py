@@ -4,7 +4,7 @@ from kyc_verifier import NepalKYCVerifier
 
 def main():
     # Configuration
-    IMAGE_PATH = r"C:\Users\Bikesh Sah\Desktop\k\test_images\test.jpg"
+    IMAGE_PATH = r"test_images\test.jpg"
     CLASSIFIER_MODEL_PATH = "models/model.h5"  # Optional, set to None if not available
     
     # Initialize verifier
